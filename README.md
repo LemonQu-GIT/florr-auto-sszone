@@ -36,6 +36,12 @@ If you hate mythic sandstorms，you can reduce the value `Mythic` in `Weights`
 
 ## Efficiency (1 week)
 
+gg
+
+![img1](./images/d24908a3674099ce689e4590b91194a.png)
+
+![img2](./images/d659c6445517a172bb1f89b25015adc.png)
+
 | Rarity   | Sand | Stick | Glass |
 | :------- | ---- | ----- | ----- |
 | Epic     | 22k  | 12k   | 19k   |

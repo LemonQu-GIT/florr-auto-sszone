@@ -38,6 +38,9 @@ config.json
 
 ## 效率 (持续运行1周)
 
+gg
+![img1](./images/d24908a3674099ce689e4590b91194a.png)
+![img2](./images/d659c6445517a172bb1f89b25015adc.png)
 | Rarity   | Sand | Stick | Glass |
 | :------- | ---- | ----- | ----- |
 | Epic     | 22k  | 12k   | 19k   |
