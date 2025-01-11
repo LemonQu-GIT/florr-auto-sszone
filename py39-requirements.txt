@@ -5,6 +5,8 @@ numpy
 torch
 torchaudio
 torchvision
-ultralytics
+paddlehub
+paddlepaddle
 ultralytics==8.3.17
 ultralytics-thop==2.0.9
+pycryptodome
