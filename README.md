@@ -1,5 +1,7 @@
 # florr.io Auto Farm sszone Script
 
+[中文版本](./README-zh-cn.md)
+
 ## Deploy (py3.9.15)
 
 ```bash

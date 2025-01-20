@@ -1,5 +1,7 @@
 # florr.io 自动刷 sszone 脚本
 
+[English Version](./README.md)
+
 ## 部署 (python3.9.15)
 
 运行
@@ -41,6 +43,7 @@ config.json
 gg
 ![img1](./images/d24908a3674099ce689e4590b91194a.png)
 ![img2](./images/d659c6445517a172bb1f89b25015adc.png)
+
 | Rarity   | Sand | Stick | Glass |
 | :------- | ---- | ----- | ----- |
 | Epic     | 22k  | 12k   | 19k   |
